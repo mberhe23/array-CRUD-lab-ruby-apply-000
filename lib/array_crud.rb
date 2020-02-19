@@ -46,6 +46,7 @@ end
 
 return 
 
+  color[2]
 
 
 def retrieve_first_element_from_array(array)
