@@ -39,7 +39,7 @@ return
  array.shift
 
 def retrieve_element_from_index(array, index_number)
-  colors = ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "am", "Pink"]
   
   color[2]
 end
