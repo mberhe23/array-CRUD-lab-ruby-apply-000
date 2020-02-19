@@ -38,6 +38,7 @@ return
 colors.shift
 
 
+
 def retrieve_element_from_index(array, index_number)
   colors = ["Blue", "Red", "Green", "Pink"]
 end
