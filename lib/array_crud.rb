@@ -36,8 +36,6 @@ def remove_element_from_start_of_array(array)
    return colors.shift
 end
  
-return
-
 
 
 def retrieve_element_from_index(array, index_number)
