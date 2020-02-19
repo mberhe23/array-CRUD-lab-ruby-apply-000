@@ -24,19 +24,20 @@ end
 def remove_element_from_end_of_array(array)
   colors = ["Blue", "Red", "Green", "arrays!"]
   
-  end
+   colors.pop
+end
 return
 colors.pop
   
 def remove_element_from_start_of_array(array)
   colors = ["wow", "Red", "Green", "Pink"]
   
-  
+  colors.shift
 end
 return
-  colors.shift
-  
-  
+colors.shift
+
+
 def retrieve_element_from_index(array, index_number)
   colors = ["Blue", "Red", "Green", "Pink"]
 end
