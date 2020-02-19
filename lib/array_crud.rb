@@ -30,11 +30,12 @@ return
 colors.pop
   
 def remove_element_from_start_of_array(array)
-  colors = ["Blue", "Red", "Green", "Pink"]
+  colors = ["wow", "Red", "Green", "Pink"]
   
   colors.shift
 end
-
+return
+  
 def retrieve_element_from_index(array, index_number)
   colors = ["Blue", "Red", "Green", "Pink"]
 end
