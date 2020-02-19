@@ -41,10 +41,12 @@ return
 def retrieve_element_from_index(array, index_number)
   colors = ["Blue", "Red", "Green", "Pink"]
   
+  color[2]
 end
 
 return 
-colors[2]
+
+
 
 def retrieve_first_element_from_array(array)
   colors = ["Blue", "Red", "Green", "Pink"]
