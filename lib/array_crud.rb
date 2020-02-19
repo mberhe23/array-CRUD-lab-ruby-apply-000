@@ -17,26 +17,30 @@ end
 def add_element_to_start_of_array(array, element)
   colors = ["Blue", "Red", "Green", "Pink"]
 
-  colors.unshift("Tan")
+  colors.unshift("wow")
   
 end
 
 def remove_element_from_end_of_array(array)
-  ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "Green", "Pink"]
+  
+  colors.pop("what")
 end
   
 def remove_element_from_start_of_array(array)
-  ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "Green", "Pink"]
+  
+  colors.shift("fun")
 end
 
 def retrieve_element_from_index(array, index_number)
-  ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "Green", "Pink"]
 end
 
 def retrieve_first_element_from_array(array)
-  ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "Green", "Pink"]
 end
 
 def retrieve_last_element_from_array(array)
-  ["Blue", "Red", "Green", "Pink"]
+  colors = ["Blue", "Red", "Green", "Pink"]
 end
