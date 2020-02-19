@@ -33,7 +33,7 @@ colors.pop
 def remove_element_from_start_of_array(array)
   colors = ["wow", "Red", "Green", "Pink"]
    
-   wow = colors.shift
+   colors.shift
 end
  
 return
