@@ -3,19 +3,21 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [" ", " ", " ", " "]
+  ["Blue", "Red", "Green", "Pink"]
 end
 
 def add_element_to_end_of_array(array, element)
  colors = ["Blue", "Red", "Green", "Pink"]
  
- colors.push("")
+ colors.push("Orange")
   
   
 end 
 
 def add_element_to_start_of_array(array, element)
-  ["Blue", "Red", "Green", "Pink"]
+  
+  colors.unshift("Tan")
+  
 end
 
 def remove_element_from_end_of_array(array)
