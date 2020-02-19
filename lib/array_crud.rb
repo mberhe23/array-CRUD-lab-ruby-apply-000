@@ -24,7 +24,7 @@ end
 def remove_element_from_end_of_array(array)
   colors = ["Blue", "Red", "Green", "arrays!"]
   
-   colors.pop
+   colors.pop("arrays!")
 end
 return
 colors.pop
@@ -32,7 +32,7 @@ colors.pop
 def remove_element_from_start_of_array(array)
   colors = ["wow", "Red", "Green", "Pink"]
    
-   colors.shift
+   colors.shift("wow")
 end
 return
 colors
